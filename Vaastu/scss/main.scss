@@ -1,0 +1,10 @@
+@import 'variables';
+@import 'reset';
+@import 'header';
+
+body{
+    background-color: $primary-color;
+    height: 100vh;
+    margin: 0 1rem;
+    overflow: hidden;
+}
